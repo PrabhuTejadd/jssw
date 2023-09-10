@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 
 const pool = mysql.createPool({
     connectionLimit: 10,
-    host: 'sql982.main-hosting.eu',
+    host: 'srv1107.hstgr.io',
     user: 'u391940495_jsww',
     password: 'Prabhu@985',
     database: 'u391940495_jsww',
